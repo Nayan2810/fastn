@@ -1,0 +1,10 @@
+-- import: package/base-layout as layout
+-- import: package/header as navbar
+
+-- layout.base-layout:
+
+-- navbar.header:
+logo: $assets.files.image.logo.svg
+imageURL: /portfoli2
+
+--end: layout.base-layout
